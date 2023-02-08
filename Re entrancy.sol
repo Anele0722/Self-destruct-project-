@@ -49,4 +49,3 @@ function getBalance() public view returns(uint){
 }
  
 }
-}
